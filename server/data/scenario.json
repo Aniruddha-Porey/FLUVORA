@@ -1,0 +1,349 @@
+{
+  "weather": {
+    "rainfallMmHr": 45,
+    "condition": "Heavy showers"
+  },
+  "pois": [
+    {
+      "id": "saltlake",
+      "name": "Salt Lake (Karunamoyee)",
+      "lat": 22.5927,
+      "lng": 88.4148,
+      "nodeId": "n4455"
+    },
+    {
+      "id": "amri",
+      "name": "AMRI Hospital, Salt Lake",
+      "lat": 22.5764,
+      "lng": 88.4183,
+      "nodeId": "n2313"
+    },
+    {
+      "id": "citycentre",
+      "name": "City Centre, Salt Lake",
+      "lat": 22.5789,
+      "lng": 88.4153,
+      "nodeId": "n2397"
+    },
+    {
+      "id": "sectorv",
+      "name": "Sector V Tech Park",
+      "lat": 22.5763,
+      "lng": 88.43,
+      "nodeId": "n769"
+    },
+    {
+      "id": "niccopark",
+      "name": "Nicco Park",
+      "lat": 22.594,
+      "lng": 88.4255,
+      "nodeId": "n4486"
+    },
+    {
+      "id": "stadium",
+      "name": "Salt Lake Stadium",
+      "lat": 22.5866,
+      "lng": 88.4198,
+      "nodeId": "n2576"
+    },
+    {
+      "id": "metropolitan",
+      "name": "Metropolitan (EM Bypass)",
+      "lat": 22.5663,
+      "lng": 88.4249,
+      "nodeId": "n988"
+    },
+    {
+      "id": "chingrighata",
+      "name": "Chingrighata More",
+      "lat": 22.5845,
+      "lng": 88.399,
+      "nodeId": "n1223"
+    },
+    {
+      "id": "nayabad",
+      "name": "Nayabad",
+      "lat": 22.5615,
+      "lng": 88.408,
+      "nodeId": "n245"
+    },
+    {
+      "id": "ultadanga",
+      "name": "Ultadanga",
+      "lat": 22.583,
+      "lng": 88.396,
+      "nodeId": "n1605"
+    },
+    {
+      "id": "baguihati",
+      "name": "Baguihati",
+      "lat": 22.602,
+      "lng": 88.437,
+      "nodeId": "n6154"
+    },
+    {
+      "id": "laketown",
+      "name": "Lake Town",
+      "lat": 22.5995,
+      "lng": 88.401,
+      "nodeId": "n3858"
+    }
+  ],
+  "centers": [
+    {
+      "id": "ec-amri",
+      "name": "AMRI Hospital, Salt Lake",
+      "type": "hospital",
+      "lat": 22.5764,
+      "lng": 88.4183,
+      "address": "KB-24, Sector III, Bidhannagar",
+      "phone": "+91 33 2335 7400",
+      "nodeId": "n2313"
+    },
+    {
+      "id": "ec-apollo",
+      "name": "Apollo Gleneagles Hospitals",
+      "type": "hospital",
+      "lat": 22.573,
+      "lng": 88.3966,
+      "address": "58 Canal Circular Road, EM Bypass",
+      "nodeId": "n185"
+    },
+    {
+      "id": "ec-phc",
+      "name": "Bidhannagar Primary Health Centre",
+      "type": "hospital",
+      "lat": 22.5895,
+      "lng": 88.42,
+      "address": "Sector II, Salt Lake",
+      "nodeId": "n1985"
+    },
+    {
+      "id": "ec-ps1",
+      "name": "Salt Lake Police Station",
+      "type": "police",
+      "lat": 22.586,
+      "lng": 88.417,
+      "address": "Bidhannagar, Sector I",
+      "nodeId": "n2577"
+    },
+    {
+      "id": "ec-ps2",
+      "name": "Ultadanga Police Station",
+      "type": "police",
+      "lat": 22.583,
+      "lng": 88.396,
+      "address": "Ultadanga, CIT Road",
+      "nodeId": "n1605"
+    },
+    {
+      "id": "ec-fire1",
+      "name": "Bidhannagar Fire Station",
+      "type": "fire",
+      "lat": 22.5895,
+      "lng": 88.4095,
+      "address": "Sector II, Salt Lake",
+      "nodeId": "n1791"
+    },
+    {
+      "id": "ec-shelter1",
+      "name": "City Centre Community Shelter",
+      "type": "shelter",
+      "lat": 22.5789,
+      "lng": 88.4153,
+      "address": "City Centre, Sector III",
+      "nodeId": "n2397"
+    },
+    {
+      "id": "ec-shelter2",
+      "name": "Salt Lake Stadium Shelter",
+      "type": "shelter",
+      "lat": 22.5866,
+      "lng": 88.4198,
+      "address": "Salt Lake Stadium, Sector V side",
+      "nodeId": "n2576"
+    },
+    {
+      "id": "ec-relief1",
+      "name": "Karunamoyee Relief Camp",
+      "type": "relief",
+      "lat": 22.5927,
+      "lng": 88.415,
+      "address": "Karunamoyee More",
+      "nodeId": "n4409"
+    },
+    {
+      "id": "ec-relief2",
+      "name": "Metropolitan Relief Camp",
+      "type": "relief",
+      "lat": 22.5663,
+      "lng": 88.4249,
+      "address": "Metropolitan, EM Bypass",
+      "nodeId": "n988"
+    }
+  ],
+  "roadOverrides": {
+    "r2535": 85,
+    "r3437": 85,
+    "r2577": 85,
+    "r3182": 78,
+    "r3183": 78,
+    "r2895": 78,
+    "r2894": 78,
+    "r2896": 78,
+    "r2961": 80,
+    "r2556": 80,
+    "r2557": 80,
+    "r2960": 80,
+    "r59": 50,
+    "r60": 50,
+    "r2986": 70,
+    "r2985": 72,
+    "r2984": 68,
+    "r2983": 66,
+    "r2982": 62,
+    "r2978": 55
+  },
+  "reports": [
+    {
+      "id": "rep-1",
+      "roadId": "r3437",
+      "lat": 22.585239,
+      "lng": 88.421774,
+      "waterLevelCm": 82,
+      "roadCondition": "waterlogged",
+      "severity": "high",
+      "description": "Deep water across 7th Cross Road, small vehicles stuck near the crossing.",
+      "source": "citizen",
+      "confirmations": 4,
+      "verified": false,
+      "ageMin": 240
+    },
+    {
+      "id": "rep-2",
+      "roadId": "r3437",
+      "lat": 22.585239,
+      "lng": 88.421774,
+      "waterLevelCm": 78,
+      "roadCondition": "waterlogged",
+      "severity": "high",
+      "description": "Water level rising fast after the morning downpour.",
+      "source": "citizen",
+      "confirmations": 3,
+      "verified": false,
+      "ageMin": 200
+    },
+    {
+      "id": "rep-3",
+      "roadId": "r2577",
+      "lat": 22.583599,
+      "lng": 88.418974,
+      "waterLevelCm": 80,
+      "roadCondition": "waterlogged",
+      "severity": "high",
+      "description": "7th Cross Road completely waterlogged, vehicles stalled.",
+      "source": "citizen",
+      "confirmations": 4,
+      "verified": false,
+      "ageMin": 175
+    },
+    {
+      "id": "rep-4",
+      "roadId": "r2577",
+      "lat": 22.583599,
+      "lng": 88.418974,
+      "waterLevelCm": 72,
+      "roadCondition": "waterlogged",
+      "severity": "high",
+      "description": "Water above the kerb, pedestrians wading through.",
+      "source": "citizen",
+      "confirmations": 2,
+      "verified": false,
+      "ageMin": 150
+    },
+    {
+      "id": "rep-5",
+      "roadId": "r2896",
+      "lat": 22.583304,
+      "lng": 88.418824,
+      "waterLevelCm": 70,
+      "roadCondition": "waterlogged",
+      "severity": "high",
+      "description": "4th Avenue submerged near the crossing, two-wheelers diverted.",
+      "source": "citizen",
+      "confirmations": 2,
+      "verified": false,
+      "ageMin": 140
+    },
+    {
+      "id": "rep-6",
+      "roadId": "r2895",
+      "lat": 22.581503,
+      "lng": 88.420046,
+      "waterLevelCm": 66,
+      "roadCondition": "waterlogged",
+      "severity": "high",
+      "description": "Knee-deep water on 4th Avenue.",
+      "source": "citizen",
+      "confirmations": 1,
+      "verified": false,
+      "ageMin": 120
+    },
+    {
+      "id": "rep-7",
+      "roadId": "r2894",
+      "lat": 22.581194,
+      "lng": 88.420255,
+      "waterLevelCm": 58,
+      "roadCondition": "difficult",
+      "severity": "medium",
+      "description": "Waterlogging in stretches on 4th Avenue.",
+      "source": "citizen",
+      "confirmations": 1,
+      "verified": false,
+      "ageMin": 100
+    },
+    {
+      "id": "rep-8",
+      "roadId": "r2984",
+      "lat": 22.579803,
+      "lng": 88.419704,
+      "waterLevelCm": 60,
+      "roadCondition": "difficult",
+      "severity": "medium",
+      "description": "Water collecting on the hospital approach road.",
+      "source": "citizen",
+      "confirmations": 1,
+      "verified": false,
+      "ageMin": 95
+    },
+    {
+      "id": "rep-9",
+      "roadId": "r2961",
+      "lat": 22.576602,
+      "lng": 88.41391,
+      "waterLevelCm": 74,
+      "roadCondition": "waterlogged",
+      "severity": "high",
+      "description": "1st Cross Road submerged near the market, cars stalled.",
+      "source": "citizen",
+      "confirmations": 1,
+      "verified": false,
+      "ageMin": 130
+    },
+    {
+      "id": "rep-10",
+      "roadId": "r59",
+      "lat": 22.570656,
+      "lng": 88.412052,
+      "waterLevelCm": 45,
+      "roadCondition": "difficult",
+      "severity": "medium",
+      "description": "Large puddles forming near the Broadway junction.",
+      "source": "citizen",
+      "confirmations": 0,
+      "verified": false,
+      "ageMin": 55
+    }
+  ]
+}
