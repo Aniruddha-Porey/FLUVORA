@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://fluvora-server.onrender.com/api/:path*"
+    }
+  ]
+}
